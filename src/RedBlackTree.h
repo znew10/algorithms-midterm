@@ -1,3 +1,7 @@
+//
+// Cited from Algorithm Tutor
+//
+
 #ifndef REDBLACKTREE_H
 #define REDBLACKTREE_H
 #include <iostream>
